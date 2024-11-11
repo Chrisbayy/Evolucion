@@ -15,8 +15,16 @@ git checkout -b <ramaAlumno>
 
 
 
+
 Ejercicio 8:
 
 Ejercicio 9:
+
+
+Ejercicio 9:
+Alumno 1:
+touch almacen_cli.java
+git add .
+git commit -m "Añadiendo fichero almacen_clii.java"
 
 
