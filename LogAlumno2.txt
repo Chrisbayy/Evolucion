@@ -1,1 +1,7 @@
-:)
+93154ab (HEAD -> master, origin/master, origin/HEAD) finalizada primera parte2
+0742cf2 Merge branch 'master' of https://github.com/Chrisbayy/Evolucion
+43dcc9a modificado readme ej12
+1d59d76 union con Alumno2
+999f6bc creado Log alumno2
+1c1dec3 (origin/ramaAlumno2, ramaAlumno2) Añadiendo fichero cliente.java
+580b245 Añadido readme
